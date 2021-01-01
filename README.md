@@ -1,5 +1,7 @@
 # Match Three Console Game
 
+A match three console game written in C 
+
 ## Disclaimer
 
 Code was written while I am still on my first year with minimal experience while attending lab assitant training.
